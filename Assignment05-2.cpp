@@ -1,7 +1,6 @@
 //Assignment 05 Problem #2 George Calderon
 #include <iostream>
 #include <iomanip>
-using std::cin;
 using std::cout;
 using std::endl;
 using std::hex;
