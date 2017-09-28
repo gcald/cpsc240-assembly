@@ -1,6 +1,5 @@
 //Assignment 05 Problem #1 George Calderon
 #include <iostream>
-using std::cin;
 using std::cout;
 using std::endl;
 
