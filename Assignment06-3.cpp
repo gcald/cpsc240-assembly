@@ -1,3 +1,4 @@
+//Assignment 06 Problem #3 George Calderon & Zach
 #include <iostream>
 using std::cout;
 using std::endl;
